@@ -48,6 +48,7 @@
 {
     position: relative;
     align-items: center;display: flex;
+    display: block;
    /* margin: -25px;*/
 }
 #navbar ul{
